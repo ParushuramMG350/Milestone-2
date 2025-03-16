@@ -1,0 +1,22 @@
+.dashboard {
+  text-align: center;
+  padding: 20px;
+}
+
+.dashboard nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.dashboard a {
+  text-decoration: none;
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+
+.dashboard a:hover {
+  background: #0056b3;
+}

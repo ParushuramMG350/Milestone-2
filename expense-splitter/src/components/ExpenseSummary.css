@@ -1,0 +1,17 @@
+.expense-summary {
+  padding: 20px;
+  background-color: #fff3cd;
+  border-radius: 8px;
+}
+
+.expense-summary ul {
+  list-style: none;
+  padding: 0;
+}
+
+.expense-summary li {
+  background: #fff;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 4px;
+}
